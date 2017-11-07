@@ -1,0 +1,14 @@
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication\bin\Debug\TestSpecFlowApplication.exe.config
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication\bin\Debug\TestSpecFlowApplication.exe
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication\bin\Debug\TestSpecFlowApplication.pdb
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication\obj\Debug\TestSpecFlowApplication.csprojResolveAssemblyReference.cache
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication\obj\Debug\App.g.cs
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication\obj\Debug\TestSpecFlowApplication_MarkupCompile.cache
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication\obj\Debug\TestSpecFlowApplication.Properties.Resources.resources
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication\obj\Debug\TestSpecFlowApplication.csproj.GenerateResource.Cache
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication\obj\Debug\TestSpecFlowApplication.csproj.CoreCompileInputs.cache
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication\obj\Debug\TestSpecFlowApplication.exe
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication\obj\Debug\TestSpecFlowApplication.pdb

@@ -1,0 +1,150 @@
+﻿2017-11-02T09:56:17.1801131-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-11-02T09:56:17.2973974-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-11-02T09:56:17.2983999-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication.UI.Tests\bin\Debug\TestSpecFlowApplication.UI.Tests.dll
+2017-11-02T09:56:17.2994027-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-11-02T09:56:26.3708877-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-11-02T09:56:26.3718638-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication.UI.Tests\bin\Debug\TestSpecFlowApplication.UI.Tests.dll
+2017-11-02T09:56:28.1817489-05:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestResults\TestSpecFlowApplication.UI.Tests_Default_2017-11-02T095617.log
+2017-11-02T09:56:28.1817489-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-11-02T10:12:47.6906733-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-11-02T10:12:47.7137358-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-11-02T10:12:47.7147390-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication.UI.Tests\bin\Debug\TestSpecFlowApplication.UI.Tests.dll
+2017-11-02T10:12:47.7187486-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-11-02T10:12:57.7228891-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-11-02T10:12:57.7228891-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication.UI.Tests\bin\Debug\TestSpecFlowApplication.UI.Tests.dll
+2017-11-02T10:12:59.0607885-05:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestResults\TestSpecFlowApplication.UI.Tests_Default_2017-11-02T101247.log
+2017-11-02T10:12:59.0607885-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-11-02T10:16:59.4348496-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-11-02T10:16:59.4488866-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-11-02T10:16:59.4498894-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication.UI.Tests\bin\Debug\TestSpecFlowApplication.UI.Tests.dll
+2017-11-02T10:16:59.4508930-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-11-02T10:17:11.4552587-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-11-02T10:17:11.4560817-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication.UI.Tests\bin\Debug\TestSpecFlowApplication.UI.Tests.dll
+2017-11-02T10:17:12.6614082-05:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestResults\TestSpecFlowApplication.UI.Tests_Default_2017-11-02T101659.log
+2017-11-02T10:17:12.6614082-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-11-02T11:00:24.0667506-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-11-02T11:00:24.0888428-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-11-02T11:00:24.0898103-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication.UI.Tests\bin\Debug\TestSpecFlowApplication.UI.Tests.dll
+2017-11-02T11:00:24.0898103-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-11-02T11:00:30.0939134-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-11-02T11:00:30.0949166-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication.UI.Tests\bin\Debug\TestSpecFlowApplication.UI.Tests.dll
+2017-11-02T11:00:31.8899904-05:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestResults\TestSpecFlowApplication.UI.Tests_Default_2017-11-02T110024.log
+2017-11-02T11:00:31.8899904-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-11-02T11:06:10.9623728-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-11-02T11:06:10.9774443-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-11-02T11:06:10.9774443-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication.UI.Tests\bin\Debug\TestSpecFlowApplication.UI.Tests.dll
+2017-11-02T11:06:10.9784151-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-11-02T11:06:18.9829840-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-11-02T11:06:18.9829840-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication.UI.Tests\bin\Debug\TestSpecFlowApplication.UI.Tests.dll
+2017-11-02T11:06:20.1556281-05:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestResults\TestSpecFlowApplication.UI.Tests_Default_2017-11-02T110610.log
+2017-11-02T11:06:20.1556281-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-11-02T11:35:05.5251058-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-11-02T11:35:05.5401469-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-11-02T11:35:05.5411487-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication.UI.Tests\bin\Debug\TestSpecFlowApplication.UI.Tests.dll
+2017-11-02T11:35:05.5411487-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-11-02T11:35:17.5453372-05:00;Thread#17;Info;Discovering target: Default
+2017-11-02T11:35:17.5462311-05:00;Thread#17;Info;Discovering tests from assembly: C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication.UI.Tests\bin\Debug\TestSpecFlowApplication.UI.Tests.dll
+Appdomain Disposed
+Test Suite Dump
+#0: TestSpecFlowApplication.UI.Tests/Default - 
+#1: Default - 
+#2: TestSpecFlowApplication.UI.Tests - 
+#3: Calculator - 
+#4: Add two numbers - TestAssembly:TestSpecFlowApplication.UI.Tests/Feature:Calculator/Scenario:Add+two+numbers
+#5: Divide two numbers - TestAssembly:TestSpecFlowApplication.UI.Tests/Feature:Calculator/Scenario:Divide+two+numbers
+#6: Multiply two numbers - TestAssembly:TestSpecFlowApplication.UI.Tests/Feature:Calculator/Scenario:Multiply+two+numbers
+#7: Minus two numbers - TestAssembly:TestSpecFlowApplication.UI.Tests/Feature:Calculator/Scenario:Minus+two+numbers
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for TestSpecFlowApplication.UI.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\abuchenau\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.6.3\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given I have entered 50 into the calculator
+Thread#0:T:done: CalculatorSteps.GivenIHaveEnteredIntoTheCalculator(50) (0.0s)
+Thread#0:B:And I have also entered 70 into the calculator
+Thread#0:T:done: CalculatorSteps.GivenIHaveAlsoEnteredIntoTheCalculator(70) (0.0s)
+Thread#0:B:When I press add
+Thread#0:T:done: CalculatorSteps.WhenIPressAdd() (0.0s)
+Thread#0:B:Then the result should be 120 on the screen
+Thread#0:T:done: CalculatorSteps.ThenTheResultShouldBeOnTheScreen(120) (0.0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 0.1663478 seconds
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:B:Given I have entered 20 into the calculator
+Thread#0:T:done: CalculatorSteps.GivenIHaveEnteredIntoTheCalculator(20) (0.0s)
+Thread#0:B:And I have also entered 5 into the calculator
+Thread#0:T:done: CalculatorSteps.GivenIHaveAlsoEnteredIntoTheCalculator(5) (0.0s)
+Thread#0:B:When I press divide
+Thread#0:T:done: CalculatorSteps.WhenIPressDivide() (0.0s)
+Thread#0:B:Then the result should be 4 on the screen
+Thread#0:T:done: CalculatorSteps.ThenTheResultShouldBeOnTheScreen(4) (0.0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #6 from normal test queue 
+Thread#0:Scheduler: considering testitem #6 for thread 0
+Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #6 for thread 0
+Thread#0:Scheduler: Test #6 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 0 seconds
+Thread#0: Test #6/0 is started on thread #0
+Thread#0:B:Given I have entered 8 into the calculator
+Thread#0:T:done: CalculatorSteps.GivenIHaveEnteredIntoTheCalculator(8) (0.0s)
+Thread#0:B:And I have also entered 2 into the calculator
+Thread#0:T:done: CalculatorSteps.GivenIHaveAlsoEnteredIntoTheCalculator(2) (0.0s)
+Thread#0:B:When I press multiply
+Thread#0:T:done: CalculatorSteps.WhenIPressMultiply() (0.0s)
+Thread#0:B:Then the result should be 16 on the screen
+Thread#0:T:done: CalculatorSteps.ThenTheResultShouldBeOnTheScreen(16) (0.0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #7 from normal test queue 
+Thread#0:Scheduler: considering testitem #7 for thread 0
+Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #7 for thread 0
+Thread#0:Scheduler: Test #7 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #6/0 is finished on thread #0 as Succeeded within 0.0156248 seconds
+Thread#0: Test #7/0 is started on thread #0
+Thread#0:B:Given I have entered 12 into the calculator
+Thread#0:T:done: CalculatorSteps.GivenIHaveEnteredIntoTheCalculator(12) (0.0s)
+Thread#0:B:And I have also entered 9 into the calculator
+Thread#0:T:done: CalculatorSteps.GivenIHaveAlsoEnteredIntoTheCalculator(9) (0.0s)
+Thread#0:B:When I press minus
+Thread#0:T:done: CalculatorSteps.WhenIPressMinus() (0.0s)
+Thread#0:B:Then the result should be 3 on the screen
+Thread#0:T:done: CalculatorSteps.ThenTheResultShouldBeOnTheScreen(3) (0.0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #7/0 is finished on thread #0 as Succeeded within 0 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 4
+Succeeded: 4
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0

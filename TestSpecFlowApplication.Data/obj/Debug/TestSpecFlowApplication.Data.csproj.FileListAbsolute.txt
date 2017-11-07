@@ -1,0 +1,10 @@
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication.Data\bin\Debug\TestSpecFlowApplication.Data.dll.config
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication.Data\bin\Debug\TestSpecFlowApplication.Data.dll
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication.Data\bin\Debug\TestSpecFlowApplication.Data.pdb
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication.Data\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication.Data\obj\Debug\TestSpecFlowApplication.Data.csprojResolveAssemblyReference.cache
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication.Data\obj\Debug\TestSpecFlowApplication.Data.csproj.CoreCompileInputs.cache
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication.Data\obj\Debug\TestSpecFlowApplication.Data.dll
+C:\Users\abuchenau\Desktop\TestSpecFlowApplication\TestSpecFlowApplication.Data\obj\Debug\TestSpecFlowApplication.Data.pdb
